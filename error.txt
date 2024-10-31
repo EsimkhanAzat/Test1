@@ -1,0 +1,3 @@
+echo "This is an error file" > error.txt
+      git add error.txt
+      git commit -m "Mistakenly added error.txt"
